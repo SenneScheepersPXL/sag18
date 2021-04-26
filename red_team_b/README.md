@@ -26,7 +26,7 @@ Prior jobs (src: https://www.linkedin.com/in/josh-levin-a857b450/detail/overlay-
 - 102.3 WBAB/106.1 WBLI Intern, Cox Media Group Long Island - West Babylon, NY
 
 Favourite food
--
+- cinnamon toast crunch milk and cereal bars (src: https://twitter.com/HEELevin/status/270275069312380929)
 
 Address
 - 12 North Wesley Court, Huntington, NY 11743
