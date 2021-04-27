@@ -3,6 +3,7 @@
 Full name: Josh Levin
 
 Address
+- 12 North Wesley Court, Huntington, NY 11743 (src: https://www.linkedin.com/in/josh-levin-a857b450/)
 - New York City Metropolitan Area (src: https://www.linkedin.com/in/josh-levin-a857b450/)
 - Long Island, New York (src: https://twitter.com/HEELevin/status/474241094096781313)
 
@@ -15,7 +16,7 @@ Mom's birthday
 Job
 - Content Producer at The Topps Company (src: https://www.linkedin.com/in/josh-levin-a857b450/)
 
-Prior jobs (src: https://www.linkedin.com/in/josh-levin-a857b450/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAArL8AUBpXgE-dQGyPr0lSmNdJvpChyTze4,51246130)/)
+Prior jobs (src: https://www.linkedin.com/in/josh-levin-a857b450/)
 - Assistant Negotioator, ZenithOptimedia - New York, NY
 - Staff Writer, YanksGoYard.com, FanSided
 - Media	Trainee, ZenithOptimedia - New York, NY
