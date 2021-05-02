@@ -60,13 +60,13 @@ async function getDataFromApi(endpoint, token) {
 async function run() {
     console.log("scope: team")
     let token = await getAccessToken("PXL", "team");
-    console.log(await getDataFromApi("members", token));
-    console.log(await getDataFromApi("poem", token));
+    console.log("members:", await getDataFromApi("members", token));
+    console.log("poem:", await getDataFromApi("poem", token));
 
     console.log("scope: admin")
     token = await getAccessToken("PXL", "admin");
-    console.log(await getDataFromApi("members", token));
-    console.log(await getDataFromApi("poem", token));
+    console.log("members:", await getDataFromApi("members", token));
+    console.log("poem:", await getDataFromApi("poem", token));
 }
 
 run();
