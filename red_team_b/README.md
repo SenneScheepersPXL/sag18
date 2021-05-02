@@ -1,6 +1,6 @@
 # Info
 
-Full name: Josh Levin
+Full name: Joshua Levin
 
 Address
 - 12 North Wesley Court, Huntington, NY 11743 (src: https://www.linkedin.com/in/josh-levin-a857b450/)
@@ -39,7 +39,7 @@ Email
 - jlevin2118@gmail.com
 
 Instagram
-- https://www.instagram.com/j11evin/ (j11evin) (src: https://twitter.com/HEELevin)
+- https://www.instagra/m.com/j11evin (j11evin) (src: https://twitter.com/HEELevin)
 
 Twitter
 - https://twitter.com/HEELevin (@HEELevin)
@@ -50,6 +50,12 @@ Linkedin
 
 Whitepages
 - https://www.whitepages.com/name/Joshua-Levin/Huntington-NY
+
+Datalead
+- https://data-lead.com/person/name/Josh+Levin/id/262048077/v/113c9
+
+Medium
+- 
 
 Media
 - https://twitter.com/HEELevin/status/300038206143991808
